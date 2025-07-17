@@ -1,39 +1,3 @@
-SOURCE-AVAILABLE LICENSE
-
-Permission is hereby granted, any individual or organization obtaining a copy of the Feliss Engine source code ("Software") to use, view, the Software strictly for non-commercial, educational, or research purposes, subject to the following conditions
-
-1. Source-Available, Not Open Source  
-   This Software is source-available. It is not licensed under an OSI-approved open source license.
-
-2. Restrictions  
-   You may not:
-   - Sell, license, or commercially distribute the Software or derivative works.
-   - Use the Software to provide a illegal service or product.
-   - Use the Software to develop anti-competitive technologies or systems.
-   - Remove or alter any copyright, trademark, or licensing notice.
-
-3. Modifications  
-   You may:
-   - Modify and compile the Software for personal or academic use.
-   - Share non-commercial modifications with attribution to the original author ("Neofilisoft").
-
-4. Redistribution  
-   You "may not redistribute the original or modified Software in compiled or source" form unless:
-   - It is for non-commercial educational/research use, and
-   - Clear credit is given to Neofilisoft, and
-   - This license is included unmodified.
-
-5. No Warranty  
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. NEITHER THE AUTHORS NOR COPYRIGHT HOLDERS SHALL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
-
-6. Termination
-   This license and your rights under it terminate automatically if you breach its terms.
-
-For commercial licensing or inquiries, please contact at Email: contact@neofilisoft.com or https://www.neofilisoft.com
-
-This license applies to all source files, libraries, scripts, build tools, and documentation explicitly distributed under the Feliss Engine project unless otherwise noted.
-
-
 FELISS ENGINE End User License Agreement (EULA)
 Version 1.0.0 - 2025
 
@@ -73,5 +37,8 @@ By downloading, installing, or using Feliss Engine, you agree to be bound by the
 
 8. Governing Law
    8.1 This Agreement shall be governed by the laws of Thailand, without regard to conflict of laws principles.
+
+For commercial licensing or inquiries, please contact at Email: contact@neofilisoft.com or https://www.neofilisoft.com
+This license applies to all source files, libraries, scripts, build tools, and documentation explicitly distributed under the Feliss Engine project unless otherwise noted.
 
 Copyright © 2025 ImBad / Neofilisoft. All rights reserved.
